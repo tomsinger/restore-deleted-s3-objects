@@ -1,0 +1,13 @@
+{
+    "name": "tomsinger/recover-s3-files",
+    "require": {
+        "aws/aws-sdk-php": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Singer",
+            "email": "tomsinger@gmail.com"
+        }
+    ]
+}
